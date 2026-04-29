@@ -67,6 +67,12 @@ const places = [
     desc: 'Far removed from the tourist cafes of Lakeside, the old bazaar near Bhimsen Tole preserves the medieval streetscape of the original market town. Narrow alleys are lined with traditional Newari architecture, craft workshops, spice sellers, and local eateries serving dal bhat and sel roti. This is where Pokhara\'s everyday life happens, unchanged for generations.',
     tags: ['Market', 'Culture', 'Newari'],
   },
+   {
+    num: '13',
+    name: 'rajendra',
+    desc: 'don don don.',
+    tags: ['pachhai', 'Culture', 'Newari'],
+  },
   {
     num: '12',
     name: 'Pokhara Lakeside (Baidam)',
