@@ -67,12 +67,6 @@ const places = [
     desc: 'Far removed from the tourist cafes of Lakeside, the old bazaar near Bhimsen Tole preserves the medieval streetscape of the original market town. Narrow alleys are lined with traditional Newari architecture, craft workshops, spice sellers, and local eateries serving dal bhat and sel roti. This is where Pokhara\'s everyday life happens, unchanged for generations.',
     tags: ['Market', 'Culture', 'Newari'],
   },
-   {
-    num: '13',
-    name: 'rajendra',
-    desc: 'don don don.',
-    tags: ['pachhai', 'Culture', 'Newari'],
-  },
   {
     num: '12',
     name: 'Pokhara Lakeside (Baidam)',
@@ -232,7 +226,7 @@ export default function App() {
         <p className="section-label">Overview</p>
         <h2 className="section-title">The city that has it all</h2>
         <div className="about-grid">
-          <p>
+          <p>ram also lives in POkhara.
             Pokhara has been welcoming trekkers since the 1960s, when the first Western adventurers arrived on foot from India to find a market town of traditional Newar and Gurung architecture beside a quiet lake. Today the city is Nepal's premier tourist destination — declared the official Tourism Capital of Nepal in March 2024 — yet it retains a pace and atmosphere that feels unhurried compared to Kathmandu.
           </p>
           <p>
